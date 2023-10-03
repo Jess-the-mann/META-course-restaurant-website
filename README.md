@@ -1,2 +1,5 @@
-# META-course-restaurant-website
-Website I made for a restaurant called Little Lemon as part of the META software developer course.
+# Endpoints
+/restaurant/
+/restaurant/menu/
+/restaurant/booking/
+
