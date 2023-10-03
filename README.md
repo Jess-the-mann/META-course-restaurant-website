@@ -1,5 +1,5 @@
 # Endpoints
-/restaurant/
-/restaurant/menu/
-/restaurant/booking/
+### /restaurant/
+### /restaurant/menu/
+### /restaurant/booking/
 
